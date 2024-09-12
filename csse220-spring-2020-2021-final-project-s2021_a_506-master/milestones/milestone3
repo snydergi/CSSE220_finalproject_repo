@@ -1,0 +1,24 @@
+milestone3 progress:
+
+1.	Aliens colliding with hero – which means collisions must be handled
+	Done.
+
+2.	Shooting collisions
+		-Hero shooting aliens, aliens disappear
+		-Aliens shooting hero, hero loses life
+	Done.
+		
+3.	Picking up object collisions
+		-Hero picking up valuable objects and fuel objects
+	Done.
+		
+4.	Dropping objects
+		-Hero drops fuel objects on spaceship 
+		-Collision of fuel object with spaceship increasing spaceship's fuel level
+	Done.
+		
+5.	Hero loses game when all lives are lost
+	Done.
+
+6.	Winning a level when rocket ship is completely fueled and then lifts off
+	Done.

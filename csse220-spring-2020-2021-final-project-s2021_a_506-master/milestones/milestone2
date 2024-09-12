@@ -1,0 +1,21 @@
+milestone2 progress:
+
+1.	Automatic movement/animation (things moving without keys pressed)
+		-The hero should fall when not on a platform (stops falling when it lands on a platform)
+		-The fall should be gradual, not instantaneous
+		-This movement/animation occurs without key presses
+	Done.
+		
+2.	Two kinds of aliens that move in a reasonable way 
+	Done.
+
+3.	Hero shoots bullets
+	Done.
+
+4.	One type of alien that shoots bullets
+	Done.
+ 
+5.	Diagonal movement by hero
+		-Flying diagonal movement – up arrow key in combination with left/right arrow key
+		-Falling diagonal movement – left/right arrow key while falling
+	Done.
